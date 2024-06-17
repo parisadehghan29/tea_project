@@ -628,6 +628,14 @@ video {
   width: 9vw;
 }
 
+.w-\[83vw\] {
+  width: 83vw;
+}
+
+.w-\[81vw\] {
+  width: 81vw;
+}
+
 .justify-center {
   justify-content: center;
 }
